@@ -1,0 +1,7 @@
+- WARNING -
+The ContraireMon folder should be in the desktop ! Or else the JSON thing will not work . And events probabilities will not change (Which is really sad)
+
+I : Execute the ContrainteMon shortcut ;
+II : Make sure you have PokeMMO open , and be connected to a server . To ensure a better gaming experience ;
+III : Read the indicated instructions on the window tool ;
+IV : Have fun ;)
